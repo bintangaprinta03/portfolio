@@ -1,12 +1,12 @@
-# Portfolio Responsive Complete
+# projek pdk dikominfo
 
-### Portfolio Responsive Complete
+### projek pdk dikominfo
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Situs Web Portofolio Pribadi yang Responsif menggunakan HTML CSS & JavaScript.
+Mengandung animasi saat menggulir.
+Pengguliran lancar di setiap bagian.
+Dikembangkan terlebih dahulu dengan metodologi Mobile First, kemudian untuk desktop.
+Kompatibel dengan semua perangkat mobile dan dengan antarmuka pengguna yang indah dan menyenangkan
 
 ![preview img](/preview.png)
 
