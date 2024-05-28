@@ -8,5 +8,5 @@ Pengguliran lancar di setiap bagian.
 Dikembangkan terlebih dahulu dengan metodologi Mobile First, kemudian untuk desktop.
 Kompatibel dengan semua perangkat mobile dan dengan antarmuka pengguna yang indah dan menyenangkan
 
-![preview img](/preview.png)
+(/preview.png)
 
